@@ -8,11 +8,11 @@ theme: beautiful-jekyll
 # logo: https://path-to-your-logo.jpg
 
 # Social media links
-linkedin_username: GretaTengattini
+#linkedin_username: GretaTengattini
 
 # Build settings
-markdown: kramdown
-plugins:
+#markdown: kramdown
+#plugins:
   - jekyll-feed
 
 # Google Analytics (optional)
