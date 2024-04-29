@@ -36,7 +36,8 @@ Business Analysis with Structured Data, Tableau, Business Analysis with Structur
 Analysis with Python, Machine Learning, 
 
 **University of Brescia** | Brescia, Italy
-> MS Economics and Business, specialization in Marketing 
+> MS Economics and Business, specialization in Marketing
+
 > BS Business Administration 
 - Thesis Research at Columbia University, New York City, NY
 - Relevant Courses: Business Economy, Financial Statement Analysis, Global Marketing Research, Financial Management,
