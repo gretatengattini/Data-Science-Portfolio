@@ -1,5 +1,8 @@
 # Data Science | Portfolio
- 
+Hi! My name is Greta and I am currently completing my Master's in Business Analytics at Hult International School of Business in San Francisco 🌁
+
+Below is an overview of my skills and experience. You can also find exampels of my work linked in my github repo!
+
 ## Skills, Certifications, Passions 
 
 Skills: Python, SQL, Data Analysis, Excel, R, Data Visualization (Advanced), Statistical Analysis (Advanced), Tableau and Data storytelling, Machine Learning (sklearn), Business Analysis with structure Data, Business Analysis with Unstructured Data, Marketing analysis
@@ -31,7 +34,8 @@ Personally sourced, authenticated, marketed and resold luxury items to generate 
 ## Education
 
 **Hult International Business School** | San Francisco, California 
-> Master of Science in Business Analytics              
+> Master of Science in Business Analytics
+            
 - Founder and President of Hult Fashion Club
 - Relevant Courses: SQL & Data Management, Business Statistics, Python for Data Analysis, Teamwork and Collaboration,
 Business Analysis with Structured Data, Tableau, Business Analysis with Structured, Business Optimization, Computational
@@ -39,8 +43,8 @@ Analysis with Python, Machine Learning,
 
 **University of Brescia** | Brescia, Italy
 > MS Economics and Business, specialization in Marketing
-
-> BS Business Administration 
+> BS Business Administration
+ 
 - Thesis Research at Columbia University, New York City, NY
 - Relevant Courses: Business Economy, Financial Statement Analysis, Global Marketing Research, Financial Management,
 Marketing, Marketing-Advanced, International Marketing, International Economics, Sales Strategy
