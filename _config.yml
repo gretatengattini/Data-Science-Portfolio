@@ -3,8 +3,4 @@ logo: https://unsplash.com/photos/a-view-of-the-golden-gate-bridge-in-the-fog-Ud
 description: Data Science | Portfolio
 show_downloads: false
 theme: jekyll-theme-slate
-git clone https://github.com/dracula/visual-studio-code.git ~/.vscode/extensions/theme-dracula
-cd ~/.vscode/extensions/theme-dracula
-npm install
-npm run build
 
