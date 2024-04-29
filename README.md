@@ -1,3 +1,4 @@
+# Data Science| Portfolio
 Hi! My name is Greta and I am currently completing my Master's in Business Analytics at Hult International School of Business in San Francisco 🌁
 
 Below is an overview of my skills and experience. You can also find exampels of my work linked in my github repo!
