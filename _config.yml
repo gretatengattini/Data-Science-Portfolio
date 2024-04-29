@@ -2,8 +2,5 @@ title: Greta Tengattini
 #logo: https://unsplash.com/photos/a-view-of-the-golden-gate-bridge-in-the-fog-UdWZNa83lG8
 description: Data Science | Portfolio
 show_downloads: false
-remote_theme: pages-themes/primer@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
+theme: jekyll-theme-dinky
 
