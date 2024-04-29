@@ -15,6 +15,7 @@ Passions: Fashion, Cooking, Art, AI
 ## Work Experience
 **Columbia University** | New York City, NY
 March 2022 – March 2023 Market Analyst. 
+
 Conducted research in behavioral economics to study electric vehicle adoption, managed data collection and analysis, and influenced sustainability practices in the EV industry.
 - Developed +25 market studies to identify emerging trends, consumer preferences, and untapped opportunities
 - Implemented 15 behavioral experiments involving 500 participants to analyze consumer preferences, decision-making
@@ -25,6 +26,7 @@ strategies and improve ROI by 74%
 
 **RealGri** | Milan, Italy 
 October 2017 –August 2021 Ecommerce Business Owner and Seller. 
+
 Personally sourced, authenticated, marketed and resold luxury items to generate thousands of euros in profit.
 - Developed and Managed International Supplier Relationships: cultivated and maintained strong working relationships with over 30 international suppliers.
 - Designed and managed an e-commerce website that offered over 3000 products and processing up to 150 orders a month
@@ -55,6 +57,7 @@ practice study; Buyer Psychology Marketing Case Study; Employee Job Satisfaction
 ## Additional Experience
 **Italian National Entrepreneurship Prize Winner** | Brescia, Italy May 2022
 - Won £120,000 grant for a business proposal to automatically authenticate luxury goods through artificial intelligence
+  
 **Amazon Marketplace Seller** | Brescia, Italy September 2018 –September 2019
 - Utilized Amazon Scout to identify profitable items, built relationships with Asian suppliers, and generated thousands of euros
 in profit
