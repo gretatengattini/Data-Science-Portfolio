@@ -1,25 +1,5 @@
-
-title: Greta Tengattini | Data Science Portfolio
-description: "Exploring the frontiers of data science to drive insightful decisions."
-url: "https://your-github-username.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-theme: beautiful-jekyll
-
-# Optional: specify a logo image (uncomment the next line to activate)
-# logo: https://path-to-your-logo.jpg
-
-# Social media links
-#linkedin_username: GretaTengattini
-
-# Build settings
-#markdown: kramdown
-#plugins:
-  - jekyll-feed
-
-# Google Analytics (optional)
-#google_analytics: Your-Google-Analytics-ID
-
-# Disqus Comments (optional)
-#disqus_shortname: your-disqus-shortname
-
-# Avatar
-#avatar: https://path-to-your-avatar.jpg
+title: Greta Tengattini
+#logo: https://unsplash.com/photos/a-view-of-the-golden-gate-bridge-in-the-fog-UdWZNa83lG8
+description: Data Science | Portfolio
+show_downloads: false
+theme: jekyll-theme-modernist
