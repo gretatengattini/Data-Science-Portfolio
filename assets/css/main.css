@@ -1,3 +1,11 @@
 body {
-   color: #333333; /* Sets the default text color to dark gray */
+    color: #333333; /* Changes the text color to dark gray */
+}
+
+a, a:visited {
+    color: #0066cc; /* Changes the link color */
+}
+
+a:hover {
+    color: #004499; /* Changes the hover color of links */
 }
