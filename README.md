@@ -1,11 +1,13 @@
 # Data Science | Portfolio
  
-## Skills
+## Skills, Certifications, Passions 
 
 Skills: Python, SQL, Data Analysis, Excel, R, Data Visualization (Advanced), Statistical Analysis (Advanced), Tableau and Data storytelling, Machine Learning (sklearn), Business Analysis with structure Data, Business Analysis with Unstructured Data, Marketing analysis
 
 Certifications: Supervised Learning with scikit-learn, Unsupervised Learning in Python, Feature Engineering for ML in Python,
 Languages: Italian (native), English (fluent), Spanish (fluent)
+
+Passions: Fashion, Cooking, Art, AI
 
 ## Work Experience
 **Columbia University** | New York City, NY
@@ -42,8 +44,8 @@ Analysis with Python, Machine Learning,
 - Thesis Research at Columbia University, New York City, NY
 - Relevant Courses: Business Economy, Financial Statement Analysis, Global Marketing Research, Financial Management,
 Marketing, Marketing-Advanced, International Marketing, International Economics, Sales Strategy
-- Projects: Wedding consultancy business challenge; “Dolls Kill” Marketing and sales analysis; “Gucci analysis” and CSR
-practice study; Buyer Psychology Marketing Case Study; Employee Job Satisfaction Survey and Analysis; Behavioral Economics case study; Financial Analysis
+- Projects:“Dolls Kill” Marketing and sales analysis; “Gucci analysis” and CSR
+practice study; Buyer Psychology Marketing Case Study; Employee Job Satisfaction Survey and Analysis; Behavioral Economics case study; Financial Analysis projects
 
 ## Additional Experience
 **Italian National Entrepreneurship Prize Winner** | Brescia, Italy May 2022
