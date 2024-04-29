@@ -43,6 +43,7 @@ Analysis with Python, Machine Learning,
 
 **University of Brescia** | Brescia, Italy
 > MS Economics and Business, specialization in Marketing
+
 > BS Business Administration
  
 - Thesis Research at Columbia University, New York City, NY
