@@ -6,10 +6,8 @@ Below is an overview of my skills and experience. You can also find exampels of 
 
 Skills: Python, SQL, Data Analysis, Excel, R, Data Visualization (Advanced), Statistical Analysis (Advanced), Tableau and Data storytelling, Machine Learning (sklearn), Business Analysis with structure Data, Business Analysis with Unstructured Data, Marketing analysis
 
-Certifications: Supervised Learning with scikit-learn, Unsupervised Learning in Python, Feature Engineering for ML in Python,
+Certifications: Supervised Learning with scikit-learn, Unsupervised Learning in Python, Feature Engineering for ML in Python, SQL Advanced, Python Advanced
 Languages: Italian (native), English (fluent), Spanish (fluent)
-
-Passions: Fashion, Cooking, Art, AI
 
 ## Work Experience
 **Columbia University** | New York City, NY
@@ -43,9 +41,9 @@ Business Analysis with Structured Data, Tableau, Business Analysis with Structur
 Analysis with Python, Machine Learning, 
 
 **University of Brescia** | Brescia, Italy
-> MS Economics and Business, specialization in Marketing
+> MS Economics and Business and Economics, Management
 
-> BS Business Administration
+> BS Law
  
 - Thesis Research at Columbia University, New York City, NY
 - Relevant Courses: Business Economy, Financial Statement Analysis, Global Marketing Research, Financial Management,
